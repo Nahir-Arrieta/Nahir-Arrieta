@@ -80,5 +80,4 @@ Mi objetivo es aplicar con éxito mis habilidades en proyectos desafiantes y con
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
